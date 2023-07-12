@@ -4,10 +4,10 @@ This project aims to predict the presence of heart disease in patients using mac
 
 The project requires the following dependencies:
 
-Python 3.6+
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-jupyter
+ Python 3.6+
+ pandas
+ numpy
+ scikit-learn
+ matplotlib
+ seaborn
+ jupyter
